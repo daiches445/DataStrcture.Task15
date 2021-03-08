@@ -110,7 +110,7 @@ namespace DataStrcture.Task15
                 charNnum_node = charNnum_node.GetNext();
             }
 
-            return first.GetNext();
+            return first.GetNext();//ddd  sdf
 
         }
 
